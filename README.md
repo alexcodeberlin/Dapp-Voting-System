@@ -54,12 +54,12 @@ Code Documentation
 
 4. Software architecture
 
-The Remix IDE used in this project is an online development environment that allows to write, test and debug Solidity contracts. Remix can write and deploy your smart contracts.
-This workspace contains 2 directories:
+The Remix IDE used in this project is an online development environment that allows to write, test and debug Solidity contracts. Smart Contracts are the core components of your Ethereum project. Remix can write and deploy smart contracts. 
+The workspace directories:
 1. 'contracts': Here you can find my contract "votingDapp.sol".
    The Contract is written in Solidity and define the logic of the application.
    
-2. The 'scripts' folder has four typescript files which are importing 'web3.js' and 'ethers.js'. This helps to deploy my contract "votingDapp.sol. These are JavaScript libraries that allow your front-end application to interact with the Ethereum blockchain
+
 
 
 
