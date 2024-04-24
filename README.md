@@ -21,15 +21,15 @@ The easiest way to setup my decentralized application is to start it with https:
 
 2.Project Documentation
 1. In the left navigation bar go to deploy and run transactions. Then hit the button "Deploy".
-![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/a884e972-6a1a-453a-9f01-c15b228aeecc)
+![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d359cf57-fdbf-4f08-a01e-db5fd42a834d)
 2. Next, hit the recycle bin to delete "Deployed/Unpinned Contracts" in the bottom right corner of the picture.
-![22](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/255e366e-233e-4111-8cfd-0e642efdf51d)
+![22](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/e809c123-569c-40a4-bfdc-10ba158d012f)
 3. Click on the button "Deploy" again.
 4. After that, open the dropdown menu that appears bellow "Deployed/Unpinned Contracts". The following menu will popup:
-![33](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/7068e199-38cd-4a60-be3c-f9718083d421)
+![33](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/ee9045aa-78dd-46cd-b678-f3de93065e97)
 5. Press the button "startVoting". Now the voting has started and you can vote all members in the "ACCOUNT" selectbox. (look at console output)
 6. Click on the "ACCOUNT" selectbox. The first account is the account with which you are voting. Copy another account address and paste it in the textfield "address receiver" next to "addVote" Button. The "adress receiver" is the canditate.  
-![444](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/9788219e-f9e1-4cec-807e-a236b14b4f54)
+![444](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d70c0048-c46c-405c-bf1c-ca5957e7516a)
 7. Then you need to select in "ACCOUNT" selectbox again the account with which you started.
 
 8. Click on "addVote". Now you voted the account which you copied before in step 6.
@@ -37,9 +37,9 @@ The easiest way to setup my decentralized application is to start it with https:
 9. Now choose a third account in the "ACCOUNT" selectbox as a new voter. Don´t change anything else.
 
 10. Place another vote by clicking on "addVote". Now you voted the account which you copied in step 6 but as a different voter.
-![666](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/ddb0e42b-82cf-4c38-9880-00f462104609)
+![666](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/bbb1764a-f356-4e66-b272-34014eb9fb16)
 11. Click on "removeVote". In the output is nomore a receiverAddress, you can just see the voter who has removed his last vote for the selected candidate.
-![777](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/a822d644-3ea8-4d64-8d98-a30980637786)
+![777](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/f2766eb3-2bcb-4a7b-8991-0cb1869d7101)
 12. To stop the voting progress, you need to click on "stopVoting".
 
 13. Copy the account from "receiverAddress" into "address voterAddress" beside the Button "getVote".
