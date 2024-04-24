@@ -1,10 +1,10 @@
 # Dapp-Voting-System
 
-Project introduction
+Project introduction:
 This project aims to develop a decentralized voting application with blockchain technology. Traditional voting systems often face challenges such as security vulnerabilities, lack of transparency and centralized control. By leveraging blockchain technology we have more secure and transparent voting platform. Cryptographic techniques secure votes and ensure that only authorized individuals create votes. All voting transactions are recorded on the blockchain. Overall, a decentralized voting app offers a more secure and transparent with greater confidence and trust.
 
-1.Setup Code environment
-2.Project Documentation
+1.Setup Code environment -
+2.Project Documentation -
 3.Code Documentation
 
 
@@ -52,15 +52,14 @@ The easiest way to setup my decentralized application is to start it with https:
 
 
 4. Software architecture
-   
-This workspace contains 3 directories:
+
+The Remix IDE used in this project is an online development environment that allows to write, test and debug Solidity contracts. Remix can write and deploy your smart contracts.
+This workspace contains 2 directories:
 1. 'contracts': Here you can find my contract "votingDapp.sol".
-2. 'scripts': Contains four typescript files to deploy a contract.
-3. 'tests': Contains one Solidity test file for 'Ballot' contract & one JS test file for 'Storage' contract.
+   The Contract is written in Solidity and define the logic of the application.
+   
+2. The 'scripts' folder has four typescript files which are importing 'web3.js' and 'ethers.js'. This helps to deploy my contract "votingDapp.sol. These are JavaScript libraries that allow your front-end application to interact with the Ethereum blockchain
 
-The 'scripts' folder has four typescript files which are importing 'web3.js' and 'ethers.js'. This helps to deploy my contract "votingDapp.sol.
 
-To run a script, right click on file name in the file explorer and click 'Run'. Remember, Solidity file must already be compiled.
-Output from script will appear in remix terminal.
 
 
