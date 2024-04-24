@@ -16,8 +16,8 @@ The easiest way to setup my decentralized application is to start it with https:
       In the remix Filesystem on the left bar:
 3. create default workspace
 4. create File votingDapp.sol on default-workspace/contracts
-5. Paste the code from repository Dapp-Voting-System/contracts/votingDapp.sol into votingDapp.sol in default-workspace/contracts
-6. When you save it with strg+s it will automaticly compile the contract
+5. Paste the code from my github repository "contracts/votingDapp.sol" into votingDapp.sol in "default-workspace/contracts"
+6. When you save it with strg+s it will automatically compile the contract(this step is necessary)
 
 2.Project Documentation
 1. In the left navigation bar go to deploy and run transactions. Then hit the button "Deploy".
