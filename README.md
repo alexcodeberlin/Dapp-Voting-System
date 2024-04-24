@@ -43,8 +43,8 @@ The easiest way to setup my decentralized application is to start it with https:
 12. To stop the voting progress, you need to click on "stopVoting".
 
 13. Copy the account from "receiverAddress" into "address voterAddress" beside the Button "getVote".
-
-16. Click on "getVote". In the output you see the address which you voted in step 10 and deleted the vote in step 11 -> zero votes. candidateAddress??
+    
+14. Click on "getVote". In the output you see the address which you voted in step 10 and deleted the vote in step 11 -> zero votes. candidateAddress??
     get vote to see if there any votes are or no.
 
 3. Code Documentation
