@@ -9,7 +9,7 @@ Content:<br> <br>
 3. Code Documentation<br> 
 <br> 
 
-1. Setup Code environment<br> 
+# 1. Setup Code environment<br> 
 
 Instructions: How to set up a development environment?
 The easiest way to setup my decentralized application is to start it with https://remix.ethereum.org/. Remix.ethereum.org is an online integrated development environment (IDE) specifically designed for Ethereum smart         contract development. It allows developers to write, debug, and deploy Solidity smart contracts directly in their web browser. Remix provides built-in access to Ethereum networks for contract deployment and testing for       developers.
@@ -20,7 +20,7 @@ The easiest way to setup my decentralized application is to start it with https:
 5. Paste the code from my github repository "contracts/votingDapp.sol" into votingDapp.sol in "default-workspace/contracts"
 6. When you save it with strg+s it will automatically compile the contract(this step is necessary)
 <br> 
-2.Project Documentation<br> 
+# 2.Project Documentation<br> 
 1. In the left navigation bar go to deploy and run transactions. Then hit the button "Deploy".
 ![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d1702220-4aa2-4a95-8251-6322e6d1b69c)
 
@@ -54,7 +54,7 @@ The easiest way to setup my decentralized application is to start it with https:
     get vote to see if there any votes are or no.
 
 <br> <br> 
-3. Code Documentation
+# 3. Code Documentation
 <br> 
 The code in the contract "votingDapp.sol" is well documentated. Every action is described in the file with comments. The smart contract is designed to show voting process on the Ethereum blockchain. It allows users to cast votes for candidates start and stop the voting process, add and remove votes and retrieve the candidate. 
 Functions in the Contract "votingDapp.sol": <br> 
@@ -65,7 +65,7 @@ removeVote(): Allows a user to remove their previously cast vote. <br>
 getVote(address voterAddress): Retrieves the address of the candidate voted for by a specific voter identified by voterAddress.
  <br> 
 <br> 
-4. Software architecture
+# 4. Software architecture
 <br> 
 The Remix IDE used in this project is an online development environment that allows to write, test and debug Solidity contracts. Smart Contracts are the core components of your Ethereum project. Remix can write and deploy smart contracts. 
 The workspace directories:
