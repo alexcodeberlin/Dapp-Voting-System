@@ -48,8 +48,15 @@ The easiest way to setup my decentralized application is to start it with https:
     get vote to see if there any votes are or no.
 
 
-Code Documentation
+3. Code Documentation
 
+The code in the contract "votingDapp.sol" is well documentated. Every action is described in the file with comments. The smart contract is designed to show voting process on the Ethereum blockchain. It allows users to cast votes for candidates start and stop the voting process, add and remove votes and retrieve the candidate. 
+Functions in the Contract "votingDapp.sol":
+startVoting(): Starts a voting process by setting votingInProgress to true. 
+stopVoting(): Stops s voting process by setting votingInProgress to false. 
+addVote(address receiverAddress): Allows a user to cast a vote for a specific candidate identified by receiverAddress.
+removeVote(): Allows a user to remove their previously cast vote.
+getVote(address voterAddress): Retrieves the address of the candidate voted for by a specific voter identified by voterAddress.
 
 
 4. Software architecture
