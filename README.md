@@ -24,7 +24,9 @@ The easiest way to setup my decentralized application is to start it with https:
 1. In the left navigation bar go to deploy and run transactions. Then hit the button "Deploy".
 ![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/03a1f0eb-b531-46c3-941a-6121fd33c94d)
 2. Next, hit the recycle bin to delete "Deployed/Unpinned Contracts" in the bottom right corner of the picture.
-![22](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/f9f5e3be-8f8d-44fd-8f8c-cce471b0af51)
+
+
+
 3. Click on the button "Deploy" again.
 4. After that, open the dropdown menu that appears bellow "Deployed/Unpinned Contracts". The following menu will popup:
 ![33](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/2653c03b-8d11-4c34-a059-cd60fae70214)
