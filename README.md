@@ -2,13 +2,14 @@
 <br> 
 Project introduction:<br> 
 This project aims to develop a decentralized voting application with blockchain technology. Traditional voting systems often face challenges such as security vulnerabilities, lack of transparency and centralized control. By leveraging blockchain technology we have more secure and transparent voting platform. Cryptographic techniques secure votes and ensure that only authorized individuals create votes. All voting transactions are recorded on the blockchain. Overall, a decentralized voting app offers a more secure and transparent with greater confidence and trust.
+<br> <br>  
+Content:<br> <br> 
+1. Setup Code environment <br> 
+2. Project Documentation <br> 
+3. Code Documentation<br> 
 <br> 
-1.Setup Code environment -<br> 
-2.Project Documentation -<br> 
-3.Code Documentation<br> 
-<br> <br> 
 
-1.Setup Code environment<br> 
+1. Setup Code environment<br> 
 
 Instructions: How to set up a development environment?
 The easiest way to setup my decentralized application is to start it with https://remix.ethereum.org/. Remix.ethereum.org is an online integrated development environment (IDE) specifically designed for Ethereum smart         contract development. It allows developers to write, debug, and deploy Solidity smart contracts directly in their web browser. Remix provides built-in access to Ethereum networks for contract deployment and testing for       developers.
