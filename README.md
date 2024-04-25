@@ -22,15 +22,15 @@ The easiest way to setup my decentralized application is to start it with https:
 <br> 
 2.Project Documentation
 1. In the left navigation bar go to deploy and run transactions. Then hit the button "Deploy".
-![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d359cf57-fdbf-4f08-a01e-db5fd42a834d)
+![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/0a376283-ba54-4b21-8cf0-9edad5184717)
 2. Next, hit the recycle bin to delete "Deployed/Unpinned Contracts" in the bottom right corner of the picture.
-![22](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/e809c123-569c-40a4-bfdc-10ba158d012f)
+![22](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/f9f5e3be-8f8d-44fd-8f8c-cce471b0af51)
 3. Click on the button "Deploy" again.
 4. After that, open the dropdown menu that appears bellow "Deployed/Unpinned Contracts". The following menu will popup:
-![33](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/ee9045aa-78dd-46cd-b678-f3de93065e97)
+![33](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/2653c03b-8d11-4c34-a059-cd60fae70214)
 5. Press the button "startVoting". Now the voting has started and you can vote all members in the "ACCOUNT" selectbox. (look at console output)
 6. Click on the "ACCOUNT" selectbox. The first account is the account with which you are voting. Copy another account address and paste it in the textfield "address receiver" next to "addVote" Button. The "adress receiver" is the canditate.  
-![444](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d70c0048-c46c-405c-bf1c-ca5957e7516a)
+![444](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/fb00ce68-9cc5-474d-8bcb-839c1bc6f6ff)
 7. Then you need to select in "ACCOUNT" selectbox again the account with which you started.
 
 8. Click on "addVote". Now you voted the account which you copied before in step 6.
