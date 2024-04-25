@@ -1,14 +1,14 @@
 # Dapp-Voting-System
-
-Project introduction:
+<br> 
+Project introduction:<br> 
 This project aims to develop a decentralized voting application with blockchain technology. Traditional voting systems often face challenges such as security vulnerabilities, lack of transparency and centralized control. By leveraging blockchain technology we have more secure and transparent voting platform. Cryptographic techniques secure votes and ensure that only authorized individuals create votes. All voting transactions are recorded on the blockchain. Overall, a decentralized voting app offers a more secure and transparent with greater confidence and trust.
+<br> 
+1.Setup Code environment -<br> 
+2.Project Documentation -<br> 
+3.Code Documentation<br> 
+<br> <br> 
 
-1.Setup Code environment -
-2.Project Documentation -
-3.Code Documentation
-
-
-1.Setup Code environment
+1.Setup Code environment<br> 
 
 Instructions: How to set up a development environment?
 The easiest way to setup my decentralized application is to start it with https://remix.ethereum.org/. Remix.ethereum.org is an online integrated development environment (IDE) specifically designed for Ethereum smart         contract development. It allows developers to write, debug, and deploy Solidity smart contracts directly in their web browser. Remix provides built-in access to Ethereum networks for contract deployment and testing for       developers.
@@ -18,7 +18,7 @@ The easiest way to setup my decentralized application is to start it with https:
 4. create File votingDapp.sol on default-workspace/contracts
 5. Paste the code from my github repository "contracts/votingDapp.sol" into votingDapp.sol in "default-workspace/contracts"
 6. When you save it with strg+s it will automatically compile the contract(this step is necessary)
-
+<br> 
 2.Project Documentation
 1. In the left navigation bar go to deploy and run transactions. Then hit the button "Deploy".
 ![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d359cf57-fdbf-4f08-a01e-db5fd42a834d)
@@ -47,20 +47,20 @@ The easiest way to setup my decentralized application is to start it with https:
 14. Click on "getVote". In the output you see the address which you voted in step 10 and deleted the vote in step 11 -> zero votes. candidateAddress??
     get vote to see if there any votes are or no.
 
-
+<br> <br> 
 3. Code Documentation
-
+<br> 
 The code in the contract "votingDapp.sol" is well documentated. Every action is described in the file with comments. The smart contract is designed to show voting process on the Ethereum blockchain. It allows users to cast votes for candidates start and stop the voting process, add and remove votes and retrieve the candidate. 
-Functions in the Contract "votingDapp.sol":( <br> )
-startVoting(): Starts a voting process by setting votingInProgress to true. ( <br> )
-stopVoting(): Stops s voting process by setting votingInProgress to false. ( <br> )
-addVote(address receiverAddress): Allows a user to cast a vote for a specific candidate identified by receiverAddress.( <br> )
-removeVote(): Allows a user to remove their previously cast vote.( <br> )
+Functions in the Contract "votingDapp.sol": <br> 
+startVoting(): Starts a voting process by setting votingInProgress to true. <br> 
+stopVoting(): Stops s voting process by setting votingInProgress to false.  <br> 
+addVote(address receiverAddress): Allows a user to cast a vote for a specific candidate identified by receiverAddress. <br> 
+removeVote(): Allows a user to remove their previously cast vote. <br> 
 getVote(address voterAddress): Retrieves the address of the candidate voted for by a specific voter identified by voterAddress.
-( <br> )
-
+ <br> 
+<br> 
 4. Software architecture
-
+<br> 
 The Remix IDE used in this project is an online development environment that allows to write, test and debug Solidity contracts. Smart Contracts are the core components of your Ethereum project. Remix can write and deploy smart contracts. 
 The workspace directories:
 1. 'contracts': Here you can find my contract "votingDapp.sol".
