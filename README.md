@@ -38,7 +38,7 @@ The easiest way to setup my decentralized application is to start it with https:
 ![444](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/fb00ce68-9cc5-474d-8bcb-839c1bc6f6ff)
 7. Then you need to select in "ACCOUNT" selectbox again the account with which you started.
 
-8. Click on "addVote". Now you voted the account which you copied before in step 6.
+8. Click on "addVote". Now you voted the account which you copied before in step 6.<br>
 ![555](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/b4ea7f70-97af-479e-a5f5-dd34ea469a56)
 9. Now choose a third account in the "ACCOUNT" selectbox as a new voter. Don´t change anything else.
 
