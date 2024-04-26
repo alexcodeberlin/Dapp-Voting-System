@@ -39,6 +39,8 @@ The easiest way to setup my decentralized application is to start it with https:
 7. Then you need to select in "ACCOUNT" selectbox again the account with which you started.
 
 8. Click on "addVote". Now you voted the account which you copied before in step 6.<br>
+![555](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/b4ea7f70-97af-479e-a5f5-dd34ea469a56)
+
 9. Now choose a third account in the "ACCOUNT" selectbox as a new voter. Don´t change anything else.
 
 10. Place another vote by clicking on "addVote". Now you voted the account which you copied in step 6 but as a different voter.
