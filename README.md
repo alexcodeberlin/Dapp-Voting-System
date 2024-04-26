@@ -55,7 +55,7 @@ The easiest way to setup my decentralized application is to start it with https:
 <br> <br> 
 # 3. Code Documentation
 <br> 
-The code in the contract "votingDapp.sol" is well documentated. Every action is described in the file with comments. The smart contract is designed to show voting process on the Ethereum blockchain. It allows users to cast votes for candidates start and stop the voting process, add and remove votes and retrieve the candidate. 
+The code in the contract "votingDapp.sol" is well documentated. Every action is described in the file with comments. The smart contract is designed to show the voting process on the Ethereum blockchain. It allows users to cast votes for candidates to start and stop the voting process, add and remove votes and retrieve the candidates. 
 Functions in the Contract "votingDapp.sol": <br> 
 startVoting(): Starts a voting process by setting votingInProgress to true. <br> 
 stopVoting(): Stops s voting process by setting votingInProgress to false.  <br> 
@@ -66,10 +66,10 @@ getVote(address voterAddress): Retrieves the address of the candidate voted for 
 <br> 
 # 4. Software architecture
 <br> 
-The Remix IDE used in this project is an online development environment that allows to write, test and debug Solidity contracts. Smart Contracts are the core components of your Ethereum project. Remix can write and deploy smart contracts. 
+The Remix IDE used in this project is an online development environment that allows to write, test and debug solidity contracts. Smart contracts are the core components of the Ethereum project. Remix can write and deploy smart contracts. 
 The workspace directories:
-1. 'contracts': Here you can find my contract "votingDapp.sol".
-   The Contract is written in Solidity and define the logic of the application.
+'Contracts': Here you can find my contract "votingDapp.sol".
+The contract is written in solidity and defines the logic of the application.
    
 
 
