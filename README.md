@@ -12,11 +12,11 @@ Content:<br> <br>
 # 1. Setup Code environment<br> 
 
 Instructions: How to set up a development environment?
-The easiest way to setup my decentralized application is to start it with https://remix.ethereum.org/. Remix.ethereum.org is an online integrated development environment (IDE) specifically designed for Ethereum smart         contract development. It allows developers to write, debug, and deploy Solidity smart contracts directly in their web browser. Remix provides built-in access to Ethereum networks for contract deployment and testing for       developers.
-1. open https://remix.ethereum.org/
+The easiest way to setup my decentralized application is to start it with https://remix.ethereum.org/. Remix.ethereum.org is an online integrated development environment (IDE) specifically designed for Ethereum smart         contract development. It allows developers to write, debug, and deploy solidity smart contracts directly in their web browser. Remix provides built-in access to Ethereum networks for contract deployment and testing for       developers.
+1. Open https://remix.ethereum.org/
       In the remix Filesystem on the left bar:
-3. create default workspace
-4. create File votingDapp.sol on default-workspace/contracts
+3. Create default workspace
+4. Create File votingDapp.sol on default-workspace/contracts
 5. Paste the code from my github repository "contracts/votingDapp.sol" into votingDapp.sol in "default-workspace/contracts"
 6. When you save it with strg+s it will automatically compile the contract(this step is necessary)
 <br> 
