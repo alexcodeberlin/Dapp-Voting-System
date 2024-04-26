@@ -47,12 +47,11 @@ The easiest way to setup my decentralized application is to start it with https:
 ![666](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/bbb1764a-f356-4e66-b272-34014eb9fb16)
 11. Click on "removeVote". In the output is nomore a receiverAddress, you can just see the voter who has removed his last vote for the selected candidate.
 ![777](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/f2766eb3-2bcb-4a7b-8991-0cb1869d7101)
-12. To stop the voting progress, you need to click on "stopVoting".
+12. Copy the account from "receiverAddress" into "address voterAddress" beside the Button "getVote".
 
-13. Copy the account from "receiverAddress" into "address voterAddress" beside the Button "getVote".
-    
-14. Click on "getVote". In the output you see the address which you voted in step 10
+13. Click on "getVote". In the output you see the address which you voted in step 10.
 
+14. To stop the voting progress, you need to click on "stopVoting".
 <br> <br> 
 # 3. Code Documentation
 <br> 
