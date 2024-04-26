@@ -22,7 +22,7 @@ The easiest way to setup my decentralized application is to start it with https:
 <br> 
 # 2.Project Documentation<br> 
 1. In the left navigation bar go to deploy and run transactions. Then hit the button "Deploy".
-![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d1702220-4aa2-4a95-8251-6322e6d1b69c)
+![1](https://github.com/alexcodeberlin/Dapp-Voting-System/assets/159266599/d1702220-4aa2-4a95-8251-6322e6d1b69c
 
 
 3. Next, hit the recycle bin to delete "Deployed/Unpinned Contracts" in the bottom right corner of the picture.
@@ -50,8 +50,7 @@ The easiest way to setup my decentralized application is to start it with https:
 
 13. Copy the account from "receiverAddress" into "address voterAddress" beside the Button "getVote".
     
-14. Click on "getVote". In the output you see the address which you voted in step 10 and deleted the vote in step 11 -> zero votes. candidateAddress??
-    get vote to see if there any votes are or no.
+14. Click on "getVote". In the output you see the address which you voted in step 10
 
 <br> <br> 
 # 3. Code Documentation
